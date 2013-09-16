@@ -1,0 +1,13 @@
+PODS:
+  - GoogleAnalytics-iOS-SDK (3.0)
+  - KIF (2.0.0)
+
+DEPENDENCIES:
+  - GoogleAnalytics-iOS-SDK
+  - KIF
+
+SPEC CHECKSUMS:
+  GoogleAnalytics-iOS-SDK: f8d5faf4862b679667be0c270531a189572275d1
+  KIF: ff3b46deb62ce3f8e99c6a2c786729e1eea241ba
+
+COCOAPODS: 0.24.0
